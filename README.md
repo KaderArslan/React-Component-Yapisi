@@ -1,25 +1,22 @@
----
+# React ile Single Page Sayfa Tasarımı
 
-Merhabalar,
+## Senaryo
+Farklı bir Ülke de yaşayan Web Designer'ın farklı bir bakış açısı oluşturabilmesi ve kişisel network gelişimi için Figma tasarımını rica ederek React ile kodlamaya çalıştım.
 
-Ben Kader Arslan. Kendimi geliştirirken öğrenme sürecimdeki projeleri burada paylaşıyorum. Öğrenme yolum ise proje geliştirirken öğrenmek. Hatalar ile projeler üzerinde karşılaşmak ve nihayetinde daha iyi öğrenmek. Kaizen tekniğini hayatıma yerleştirmeyi hedeflemekteyim. Sürekli iyileştirme ile dün ki ben ile yarın ki ben arasındaki farkı açma gayretindeyim. Amacım daha fazla öğrenmek. Öğrenirken uygulamak. Uygularken işin sırrını anlamak.
+## Amaç
+React ile single page sayfa tasarımında component mantığını anlamak ve uygulamak.
 
-“Başarı beklenecek bir şey değil, uğruna çalışılması gereken bir şeydir.” Henry Wadsworth Longfellow 
+## Kullanılan Teknolojiler
+<img src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=fff"> <img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=fff"> <img src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=fff"> <img src="https://img.shields.io/badge/-React-61DAFB?logo=React&logoColor=fff">
 
-sözü ile kaderini değiştirmek için çabalayanlara iyi çalışmalar diliyorum.
+## Demo Live
+[React ile Single Page Sayfa Tasarımı Demo](https://react-jdzd1f.stackblitz.io)
 
-**< KaderArslan />**.
+[StackBlitz'den kodlama sitilime ulaşabilirsiniz ⚡️](https://stackblitz.com/edit/react-jdzd1f)
 
----
+## Teşekkür
+> Projem **Karthik Rajendiran** tarafından Dizayn edilmiştir. Karthik Rajendiran'a tasarımını kodlamama olanak tanıdığı için teşekkür ederim.
 
-# React ile Component yapısı oluşturma
-
-Hedeflerim doğrultusunda katılmış olduğum Kodluyoruz tarafından gerçekleştirilen Adana Full Stack Web Development Bootcamp'inde projemiz; bootstrap ile kodladığımız siteyi React'ı daha iyi anlamak için component'lere bölerek ve react-bootstrap kullanarak yine proje geliştirirken öğrenme tekniğini kullandık. Aşağıda sitenin bootstrap kodlamasını ve react ile componentlere ayrılmış haline ulaşabilirsiniz.
-
----
-
-[Bootstrap ile yapmış olduğum siteyi](https://github.com/KaderArslan/Bootstrap-Web-Tasarimi) React'la componentlere ayırarak React'a başlangıç olarak giriş yaptım.
-
-[React'la yaptığım sitenin tasarımına ulaşabilirsiniz](https://react-jdzd1f.stackblitz.io)
-
-[StackBlitz'den çalışmama ulaşabilirsiniz ⚡️](https://stackblitz.com/edit/react-jdzd1f)
+| Karthik Rajendiran     | [Dribbble Hesabı](https://dribbble.com/karthik_rajendiran) |
+| ---------------------- | --------------- |
+| Karthik Rajendiran | [Esinlendiğim Tasarımı](https://dribbble.com/shots/14777562-CC-Web-design) |
