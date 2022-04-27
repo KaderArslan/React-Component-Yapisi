@@ -20,3 +20,10 @@ React ile single page sayfa tasarımında component mantığını anlamak ve uyg
 | Karthik Rajendiran     | [Dribbble Hesabı](https://dribbble.com/karthik_rajendiran) |
 | ---------------------- | --------------- |
 | Karthik Rajendiran | [Esinlendiğim Tasarımı](https://dribbble.com/shots/14777562-CC-Web-design) |
+---
+### Tasarım
+![Tasarım](https://github.com/KaderArslan/React-Component-Yapisi/blob/master/tasarim.png)
+### React Component Yapısı
+![React Component Yapısı](https://github.com/KaderArslan/React-Component-Yapisi/blob/master/react-component-single-page.png)
+### Demo Live
+![Demo Live](https://github.com/KaderArslan/React-Component-Yapisi/blob/master/demo-live.png)
